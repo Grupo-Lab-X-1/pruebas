@@ -4,3 +4,6 @@ Este es una prueba de test.
 # esto es una prueba de funcionalidad de repositorio local con el primer commmit en pruebas.
 
 #prueba de ejemplo
+
+
+#jogo probando 
